@@ -16,4 +16,6 @@ The addition of `mime_type = None` and `**kwargs` ensures that the function acce
 Place the plugin folder inside the Cura plugins directory and restart the app.
 To include the Chitu code into the gcode slice as normal an save as "Chitu gcode"
 
+OBS: When the author updates it, I'll delete the fork.
+
 Have Fun!
